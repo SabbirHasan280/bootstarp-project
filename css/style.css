@@ -289,7 +289,7 @@ p {
   padding-bottom: 5px;
 }
 .iteam-text p {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #d1d1d1;
@@ -383,7 +383,7 @@ p {
   border: 1px solid #fff;
 }
 .video-text h4 {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 30px;
   font-weight: 600;
   color: #ffffff;
@@ -391,7 +391,7 @@ p {
   padding-bottom: 10px;
 }
 .video-text p {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 300;
   color: #ffffff;
@@ -411,14 +411,14 @@ p {
   margin-top: 150px;
 }
 .mobile-text h3 {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 30px;
   font-weight: 600;
   color: #540a0a;
   padding-bottom: 35px;
 }
 .mobile-text p {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 300;
   color: #8c8c8c;
@@ -438,7 +438,7 @@ p {
 }
 .mobile-text h4 {
   padding-bottom: 20px;
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 300;
   color: #8c8c8c;
@@ -455,19 +455,19 @@ p {
   background: linear-gradient(to right, #070605, #4e3427);
 }
 .count-iteam i {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 30px;
   color: #ffffff;
   padding-bottom: 5px;
 }
 .count-iteam h4 {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 48px;
   font-weight: 500;
   color: #c7b299;
 }
 .count-iteam p {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #c7b299;
