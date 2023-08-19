@@ -495,14 +495,14 @@ p {
   background: #fff;
 }
 .blog-text h4 {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 30px;
   font-weight: 400;
   color: #555555;
   padding-bottom: 30px;
 }
 .blog-text p {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 300;
   color: #8c8c8c;
@@ -515,14 +515,14 @@ p {
   padding-left: 30px;
 }
 .img-text h3 {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 20px;
   font-weight: 600;
   color: #555555;
   padding-bottom: 15px;
 }
 .img-text p {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 300;
   color: #8c8c8c;
@@ -530,7 +530,7 @@ p {
   padding-bottom: 10px;
 }
 .img-text a {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 300;
   color: #c7b299;
