@@ -189,16 +189,14 @@ p {
 .idea-text h3 {
   font-size: 30px;
   font-weight: 600;
-  font-family: ;
+  font-family: Arial, Helvetica, sans-serif;
   color: #555555;
-  padding-top: ;
-  padding-bottom: ;
   padding-bottom: 10px;
 }
 .idea-text p {
   font-size: 16px;
   font-weight: 300;
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   color: #8c8c8c;
   line-height: 28px;
   width: 760px;
@@ -218,13 +216,13 @@ p {
 .parchess-text h4 {
   font-size: 28px;
   font-weight: 400;
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   color: #fff;
 }
 .parchess-text p {
   font-size: 18px;
   font-weight: 300;
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   color: #615855;
 }
 .parchess-text h4 span {
@@ -248,14 +246,14 @@ p {
   padding-bottom: 80px;
 }
 .portfolio-text h3 {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 30px;
   font-weight: 600;
   color: #555555;
   padding-bottom: 15px;
 }
 .portfolio-text p {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #8c8c8c;
@@ -284,7 +282,7 @@ p {
   position: relative;
 }
 .iteam-text h4 {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 22px;
   font-weight: 600;
   color: #c7b299;
