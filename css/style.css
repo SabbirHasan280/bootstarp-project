@@ -41,7 +41,7 @@ p {
   color: #ffffff;
   font-weight: 300;
   text-transform: capitalize;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   transition: all linear 0.3s;
 }
 .navbar-light .navbar-nav .nav-link:hover {
@@ -95,20 +95,20 @@ p {
   padding-bottom: 50px;
 }
 .benner-slider-text h3 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 36px;
   font-weight: 500;
 }
 .benner-slider-text h2 {
   padding-top: 5px;
   padding-bottom: 12px;
-  font-family: ;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 48px;
   font-weight: 700;
 }
 .benner-slider-text p {
   padding-bottom: 50px;
-  font-family: ;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 300;
 }
@@ -134,13 +134,13 @@ p {
 .service-text i {
   font-size: 50px;
   font-weight: 600;
-  font-family: ;
+  font-family: Arial, Helvetica, sans-serif;
   color: #555555;
 }
 .service-text h2 {
   font-size: 22px;
   font-weight: 600;
-  font-family: ;
+  font-family: Arial, Helvetica, sans-serif;
   color: #555555;
   padding-top: 25px;
   padding-bottom: 20px;
@@ -148,7 +148,7 @@ p {
 .service-text p {
   font-size: 14px;
   font-weight: 400;
-  font-family: ;
+  font-family: Arial, Helvetica, sans-serif;
   color: #8c8c8c;
   line-height: 24px;
   width: 258px;
